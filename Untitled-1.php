@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<title> ANSHUL AGRAWAL 792a0991</title>
+<title>792a0991</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
